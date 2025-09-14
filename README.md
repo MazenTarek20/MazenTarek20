@@ -1,12 +1,12 @@
 # Hi there, I’m Mazen Tarek 👋
 
-🎯 **Software Tester | Junior Software Engineer**  
+🎯 **Software Testing Engineer**  
 Passionate about building reliable software and ensuring high-quality products through thorough **testing, debugging, and API validation**. Skilled in creating effective test cases, bug reports, and delivering robust backend systems.
 
 ---
 
 ## 🔧 Technical Skills
-- **Languages & Frameworks:** Java, Spring Boot, Python, Angular  
+- **Languages & Frameworks:** Java, Spring Boot, Python  
 - **Testing:** Manual Testing, API Testing (Postman), JUnit, Bug Reporting  
 - **Databases:** SQL Server, PostgreSQL  
 - **Concepts:** OOP, Data Structures, Algorithms  
@@ -48,12 +48,12 @@ Passionate about building reliable software and ensuring high-quality products t
 - Effective Test Case & Bug Report Writing Techniques  
 - Manual Testing Basics  
 - Agile Testing Fundamentals  
-- Preparing for **ISTQB Certification**  
+- Preparing for **ISTQB FL Certification**  
 
 ---
 
 ## 🌱 Currently Learning
-- Test Automation Frameworks (e.g., Selenium, Cypress)  
+- Test Automation Frameworks (e.g., Selenium)  
 - Advanced API & Performance Testing Tools  
 - CI/CD and DevOps Basics  
 
@@ -61,7 +61,8 @@ Passionate about building reliable software and ensuring high-quality products t
 
 ## 📫 Let’s Connect
 - **GitHub:** [MazenTarek20](https://github.com/MazenTarek20)  
-- **LinkedIn:** [Mazen Tarek Abdelaziz](http://www.linkedin.com/in/mazen-tarek-abdelaziz-a08a42232)  
+- **LinkedIn:** [Mazen Tarek Abdelaziz](http://www.linkedin.com/in/mazen-tarek-abdelaziz-a08a42232)
+- **Resume:** [https://drive.google.com/file/d/1pEr3eSofVjqTZ9STVcl_CsrSrcIt0-N_/view?usp=sharing]
 - **Email:** mazetarek2@gmail.com  
 
 ---
