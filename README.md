@@ -7,7 +7,7 @@ Passionate about building reliable software and ensuring high-quality products t
 
 ## 🔧 Technical Skills
 - **Languages & Frameworks:** Java, Spring Boot, Python  
-- **Testing:** Manual Testing, API Testing (Postman), JUnit, Bug Reporting  
+- **Testing:** Manual Testing, API Testing (Postman), Bug Reporting  
 - **Databases:** SQL Server, PostgreSQL  
 - **Concepts:** OOP, Data Structures, Algorithms  
 - **Other:** RESTful Web Services, Agile Testing Fundamentals  
