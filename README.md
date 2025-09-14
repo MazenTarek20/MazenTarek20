@@ -62,7 +62,7 @@ Passionate about building reliable software and ensuring high-quality products t
 ## 📫 Let’s Connect
 - **GitHub:** [MazenTarek20](https://github.com/MazenTarek20)  
 - **LinkedIn:** [Mazen Tarek Abdelaziz](http://www.linkedin.com/in/mazen-tarek-abdelaziz-a08a42232)
-- **Resume:** [https://drive.google.com/file/d/1pEr3eSofVjqTZ9STVcl_CsrSrcIt0-N_/view?usp=sharing]
+- **Resume:** [Google Drive](https://drive.google.com/file/d/1pEr3eSofVjqTZ9STVcl_CsrSrcIt0-N_/view?usp=sharing)
 - **Email:** mazetarek2@gmail.com  
 
 ---
